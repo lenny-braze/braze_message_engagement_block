@@ -1,7 +1,7 @@
 #########################
 # Connection
 #########################
-connection: "currents_connection"
+connection: "looker_workshop"
 
 
 #########################
